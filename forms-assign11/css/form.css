@@ -3,6 +3,9 @@
 
 /* form styling */
 
+body {
+  background-color: lightblue;
+}
 
 #wrapper {
 	width: 60%;
@@ -16,6 +19,7 @@ div#formcol1 {
 
 label {
 	margin-right: .3em;
+	height: .3em;
 	width: 5.3em; 
 	display: inline-block; 
 }
