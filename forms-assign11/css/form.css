@@ -18,6 +18,7 @@ label {
 	margin-right: .3em;
 	width: 5.3em; 
 	display: inline-block; 
+	text-align: right;
 }
 
 /* we place the id formcol1 in front of the li element in order to limit this
