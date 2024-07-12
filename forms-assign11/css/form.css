@@ -4,7 +4,7 @@
 /* form styling */
 
 body {
-  background-color: #C6FFEC;
+  background-color: #DDFFF3;
 }
 
 #wrapper {
@@ -19,7 +19,7 @@ div#formcol1 {
 
 label {
 	margin-right: .3em;
-	height: 2em;
+	height: 1em;
 	width: 7em; 
 	display: inline-block; 
 	text-align: right;
