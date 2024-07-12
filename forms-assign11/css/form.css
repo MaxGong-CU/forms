@@ -26,14 +26,6 @@ label {
 	color: black;
 }
 
-label2{
-	margin-right: .3em;
-	height: 1.5em;
-	width: 7em; 
-	display: inline-block; 
-	color: black;
-}
-
 span {
 	width: 5em;
 }
