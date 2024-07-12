@@ -14,7 +14,16 @@ div#formcol1 {
 	width: 100%;
 }
 
+label {
+	margin-right: .3em;
+	width: 3.3em; 
+	display: inline-block; 
+}
 
-
+/* we place the id formcol1 in front of the li element in order to limit this
+formatting to the top part of the form */
+#formcol1 li {
+	list-style:none;
+}
 /* end of form css */
 	
