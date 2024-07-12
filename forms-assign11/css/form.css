@@ -4,7 +4,7 @@
 /* form styling */
 
 body {
-  background-color: lightblue;
+  background-color: #C6FFEC;
 }
 
 #wrapper {
@@ -19,9 +19,14 @@ div#formcol1 {
 
 label {
 	margin-right: .3em;
-	height: .3em;
+	height: 5em;
 	width: 5.3em; 
 	display: inline-block; 
+	text-align: right;
+}
+
+span {
+	width: 5em;
 }
 
 select:focus, select:active, input:focus, input:active, input:focus + label,
@@ -36,7 +41,7 @@ formatting to the top part of the form */
 }
 
 #formcol1 input.reqfield {
-	background:#FF9;
+	background:#FFFBC6;
 }
 /* end of form css */
 	
