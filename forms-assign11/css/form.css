@@ -28,6 +28,7 @@ label {
 
 span {
 	width: 5em;
+	ext-align: left;
 }
 
 select:focus, select:active, input:focus, input:active, input:focus + label,
